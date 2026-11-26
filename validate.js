@@ -16,7 +16,7 @@ function validate() {
     }
 
     if (sp == "") {
-        alert("Enter skills possessed");
+        alert("Enter skill  possessed");
         return false;
     }
 
