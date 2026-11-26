@@ -6,7 +6,7 @@ function validate() {
     let pd = document.getElementById("pd").value;
 
     if (eq == "") {
-        alert("Enter educational qualifications");
+        alert("Enter educational alifications");
         return false;
     }
 
