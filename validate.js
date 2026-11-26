@@ -6,7 +6,7 @@ function validate() {
     let pd = document.getElementById("pd").value;
 
     if (eq == "") {
-        alert("Enter educational qualifications");
+        alert("Enter educational alifications");
         return false;
     }
 
@@ -16,7 +16,7 @@ function validate() {
     }
 
     if (sp == "") {
-        alert("Enter skills possessed");
+        alert("Enter skill  possessed");
         return false;
     }
 
